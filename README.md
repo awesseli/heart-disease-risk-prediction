@@ -15,10 +15,3 @@ heart-disease-risk-prediction/
 └── requirements.txt  # Python dependencies
 ```
 
-
-
-4. Use `notebooks/` for exploratory work and move reusable code into `src/` as the project develops.
-
-## Notes
-
-This repository currently contains only the project scaffold. The full data analysis and modeling workflow has not been implemented yet.
