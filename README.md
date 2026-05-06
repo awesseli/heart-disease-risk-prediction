@@ -15,22 +15,7 @@ heart-disease-risk-prediction/
 └── requirements.txt  # Python dependencies
 ```
 
-## Getting Started
 
-1. Create and activate a virtual environment:
-
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Add source datasets to `data/raw/`.
 
 4. Use `notebooks/` for exploratory work and move reusable code into `src/` as the project develops.
 
